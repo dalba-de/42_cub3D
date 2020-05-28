@@ -1,0 +1,17 @@
+R 800 600
+
+NO ./textures/redbrick.xpm
+SO ./textures/colorstone.xpm
+WE ./textures/mossy.xpm
+EA ./textures/purplestone.xpm
+S ./textures/barrel.xpm
+
+F 1,100,0
+
+C 100,203,220
+
+111100
+100100
+100011
+12W001
+111111

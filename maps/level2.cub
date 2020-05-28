@@ -1,0 +1,25 @@
+R 800 600
+
+NO ./textures/north.xpm
+SO ./textures/south.xpm
+WE ./textures/west.xpm
+EA ./textures/east.xpm
+S ./textures/pica.xpm
+T ./textures/pick_quest.xpm
+
+F 1,100,0
+C 100,203,220
+
+               1111
+  111         10T001
+ 10T01        120021
+ 10001        100001
+111D1111111111111D1
+120B0200B0200B00201
+1000000000B00200BT1
+1500050111111111111
+1500051
+1H000H1
+1400041
+100N001
+1111111
